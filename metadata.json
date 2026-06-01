@@ -1,0 +1,6 @@
+{
+  "name": "SwiftTrust Financial Portal",
+  "description": "Secure financial management portal equipped with card freeze, transaction limits, automatic cashback utility payments, and real-time AI-powered financial advisory chat logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
